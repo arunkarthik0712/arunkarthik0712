@@ -10,4 +10,4 @@ Connect with me:
 https://www.instagram.com/arunkarthik._ https://www.facebook.com/arun.karthik.1800721 https://www.linkedin.com/in/arun-karthik-918368248 https://twitter.com/arunkarthik0712 
 
 Things I code with
-HTML5 Badge CSS3 Badge Javascript Badge React Badge Next.js Badge Redux Badge SASS Badge Bootstrap Badge Git Badge Nodejs Badge Express.js Badge MongoDB Badge
+HTML5 Badge CSS3 Badge [Javascript Badge](https://camo.githubusercontent.com/8e946c2804fdccdb848c1109042c5398ea6bf93367d82f83aad430b722f50d9b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667) React Badge Next.js Badge Redux Badge SASS Badge Bootstrap Badge Git Badge Nodejs Badge Express.js Badge MongoDB Badge
