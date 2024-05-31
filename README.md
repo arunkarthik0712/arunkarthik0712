@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arun karthik
 - 👀 I’m interested in software developement, web development
 - 🌱 I’m currently learning MERN Stack, Java Full Stack Development 
-- 📫 How to reach me
+- 📫 reach me at
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunkarthik0710@gmail.com)
 - 😄 Pronouns: he/him
 
